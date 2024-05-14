@@ -1,1 +1,2 @@
 Reforzar conocimientos HTML y CSS
+Aprender mas funcionalidades de JavaScript
