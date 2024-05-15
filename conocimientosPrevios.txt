@@ -1,0 +1,19 @@
+/*******Conocimientos previos******/
+-> HTML5
+-> CSS3
+-> JavaScript
+-> JQuery
+-> Bootstrap
+-> AngularJS y Angular
+-> Java
+-> Spring
+-> Spring boot
+-> Swagger
+-> Hibernate
+-> JUnit y Mockito
+-> MySQL, SQL Server, PostreSql, Oracle
+-> Quarkus
+-> Docker
+-> Kubernates
+-> Git
+-> Weblogic 12
