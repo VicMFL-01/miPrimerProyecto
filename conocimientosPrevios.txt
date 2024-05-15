@@ -16,3 +16,4 @@
 -> Docker
 -> Kubernates
 -> Git
+-> Weblogic 12
