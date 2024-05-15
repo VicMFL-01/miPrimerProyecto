@@ -12,3 +12,4 @@
 -> Hibernate
 -> JUnit y Mockito
 -> MySQL, SQL Server, PostreSql, Oracle
+-> Quarkus
