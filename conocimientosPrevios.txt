@@ -4,3 +4,4 @@
 -> JavaScript
 -> JQuery
 -> Bootstrap
+-> AngularJS y Angular
